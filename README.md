@@ -4,5 +4,5 @@
 
 ## community contributed enclosure designs:
 
-- an [eurorack panel design](/enclosure/i_n_c_u_r _ eurorack_panel.stl) by [Simon Gorzelnik](https://www.instagram.com/shimon.jpg/)
-- a [base enclosure](/enclosure/INCUR enclosure base.stl) by [miles](milesjohnsonwashere@gmail.com)
+- an [eurorack panel design](/enclosure/i_n_c_u_r\ _\ eurorack_panel.stl) by [Simon Gorzelnik](https://www.instagram.com/shimon.jpg/)
+- a [base enclosure](/enclosure/INCUR\ enclosure\ base.stl) by [miles](mailto:milesjohnsonwashere@gmail.com)
