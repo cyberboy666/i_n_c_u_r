@@ -24,7 +24,7 @@ _disclaimer: this is a fun custom project, but dont forget there are other ways 
 
 ## demo video
 
-[![image](https://user-images.githubusercontent.com/12017938/151878669-bfd9f65a-8660-4917-8029-e255410f0958.png)](https://www.youtube.com/watch?v=ah2HY1fuv8w&t=85s)
+[![image](https://user-images.githubusercontent.com/12017938/151878669-bfd9f65a-8660-4917-8029-e255410f0958.png)](https://youtu.be/ah2HY1fuv8w?t=638)
 
 
 ## gallery
