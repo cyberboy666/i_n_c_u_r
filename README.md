@@ -37,9 +37,9 @@ this project is fully _open-source hardware_ - all the files required to build i
 
 depending on whether you are going fully diy or buying an assembled and tested unit, some of the following guides will be relavent to you. the flow would be:
 
+## ordering parts
+
 <details><summary><b>parts sourcing guide (w/ notes on pcb fabracation )</b> - start here if you are building fully from scatch or have purchased a pcb</summary>
-  
-# ordering parts
 
 i try to source all the parts i can from either:
 - [tayda](https://www.taydaelectronics.com/) ; cheaper for common parts like resistors etc, also good for mechanical parts like switches and buttons
@@ -73,11 +73,12 @@ you can support this project by buying individual pcbs from the [shop](https://u
   
 i often use jlcpcb because they are reliable, cheap and give you an option of colours. remember though that the cheapest Chinese fab houses are not always the most ethical or environmently friendly - if you can afford it consider supporting local companies. 
 
-  </details>
-  
+</details>
+
+## assembly guide
+
 <details><summary><b>assembly guide</b> - start here if you have purchased a diy kit</summary>
   
-# assembly guide
 
 ## interactive BOM for build guiding
 
@@ -114,9 +115,9 @@ if you want RCA video out from the pi on this pcb a jumper needs to be run from 
   
 </details>
   
-<details><summary><b>operating guide</b> - start here if you have purchased an assembled unit</summary>
+## operating guide
   
-# operating guide
+<details><summary><b>operating guide</b> - start here if you have purchased an assembled unit</summary>
 
 - to enable the analog inputs ( knobs & cv ) go to `user_input` folder in r_e_c_u_r's `_SETTINGS_` tab and toggle `ANALOG_INPUT`
 - to enable serial midi input go to `user_input` folder in r_e_c_u_r's `_SETTINGS_` tab and toggle `MIDI_INPUT` to _serial_
