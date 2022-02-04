@@ -119,6 +119,9 @@ if you want RCA video out from the pi on this pcb a jumper needs to be run from 
   
 <details><summary><b>operating guide</b> - start here if you have purchased an assembled unit</summary>
 
+![image](https://user-images.githubusercontent.com/12017938/152460477-cd86e73f-947d-484a-b9ac-5e58b8b2b09b.png)
+
+  
 - to enable the analog inputs ( knobs & cv ) go to `user_input` folder in r_e_c_u_r's `_SETTINGS_` tab and toggle `ANALOG_INPUT`
 - to enable serial midi input go to `user_input` folder in r_e_c_u_r's `_SETTINGS_` tab and toggle `MIDI_INPUT` to _serial_
   
