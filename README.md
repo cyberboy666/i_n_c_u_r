@@ -109,7 +109,7 @@ finally place the pots and jacks.
   
 ### rca video-out
 
-if you want RCA video out from the pi on this pcb a jumper needs to be run from J6 to the composite video out on the raspberry pi board. on pi0 this is a labelled pin, however on pi3 you will need to solder directly to the board. i used a header-cable, cut one side to be soldered. The pin on pi3 is marked as PP24.
+if you want RCA video out from the pi on this pcb a jumper needs to be run from J6 to the composite video out on the raspberry pi board. on pi0 this is a labeled pin, however on pi3 you will need to solder directly to the board. i used a header-cable, cut one side to be soldered. The pin on pi3 is marked as PP24.
 
 [picture coming soon]
   
