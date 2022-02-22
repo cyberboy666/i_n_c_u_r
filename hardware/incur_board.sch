@@ -1,12 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:incur_board-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "i_n_c_u_r board"
-Date "2019-06-01"
+Date "2022-02-10"
 Rev "v5"
 Comp "cyberboy666 & user43368831"
 Comment1 "created by tim caldwell"
