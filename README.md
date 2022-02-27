@@ -28,11 +28,6 @@ _disclaimer: this is a fun custom project, but dont forget there are other ways 
 
 [![image](https://user-images.githubusercontent.com/12017938/151878669-bfd9f65a-8660-4917-8029-e255410f0958.png)](https://youtu.be/ah2HY1fuv8w?t=638)
 
-
-## gallery
-
-[coming soon]
-
 # documentation
 
 this project is fully _open-source hardware_ - all the files required to build it are included in this repo for free. if you have the time and/or skill you can contribute back by collaborating on / testing new designs, improving these docs, making demo videos/other creative content etc. you can also support the project financially by [donating directing](https://liberapay.com/underscores/), or purchasing through the [web shop](https://underscores.shop).
