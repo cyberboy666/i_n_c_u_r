@@ -4,16 +4,16 @@
 
 ![image](https://user-images.githubusercontent.com/12017938/151867823-2ffd7ad9-15bf-4f38-b4a9-118ac54efecb.png)
 
-__NOTE__ : _i_n_c_u_r_ is an extension circuit for my existing raspberry pi project [r_e_c_u_r](https://github.com/cyberboy666/r_e_c_u_r) - it will only be useful to you if you already have build a r_e_c_u_r
-
-_disclaimer: this is a fun custom project, but dont forget there are other ways to getting serial and cv control over recur parameters. USB midi is supported in recur without any extra circuitry. other [diy](https://aemodular.boards.net/thread/141/simple-cv-midi-converter-arduino) and [commercial](https://www.befaco.org/en/vcmc/) products exist that convert cv to midi, and serial to USB. in my opinion a general solution for cv-to-usb-midi applied to recur is more useful than a specific board that only works with recur_
-
 - this circuit is distributed by __UNDERSCORES__ - _an open video hardware label_ : it is available to purchase - as a pcb, kit or assembled unit - at [underscores.shop](https://underscores.shop/i_n_c_u_r/)
 - the schematic for the circuit can be found [here](/hardware/schematic.pdf)
 - the pcb gerber files for the lastest version can be found [here](/hardware/gerber_latest.zip)
 - consider [donating](https://liberapay.com/underscores/) to the underscores project to help us continue creating for the commons
 
-## features
+## description
+
+__NOTE__ : _i_n_c_u_r_ is an extension circuit for my existing raspberry pi project [r_e_c_u_r](https://github.com/cyberboy666/r_e_c_u_r) - it will only be useful to you if you already have build a r_e_c_u_r
+
+_disclaimer: this is a fun custom project, but dont forget there are other ways to getting serial and cv control over recur parameters. USB midi is supported in recur without any extra circuitry. other [diy](https://aemodular.boards.net/thread/141/simple-cv-midi-converter-arduino) and [commercial](https://www.befaco.org/en/vcmc/) products exist that convert cv to midi, and serial to USB. in my opinion a general solution for cv-to-usb-midi applied to recur is more useful than a specific board that only works with recur_
 
 - 4x __knobs__ for physical control over shader parameters
 - 4x __cv jacks (0-5v)__ for sequenced control over shader parameters (from older/analog synths eg eurorack)
