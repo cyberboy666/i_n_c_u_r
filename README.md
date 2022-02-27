@@ -22,7 +22,9 @@ _disclaimer: this is a fun custom project, but dont forget there are other ways 
 - mounting holes and front facing interface parts for easier racking / enclosure building
 - interfacing with rpi through gpio leaving all usb jacks free
 
-## demo video
+## demo videos
+
+[![image](https://user-images.githubusercontent.com/12017938/155867434-a2ea9398-58d5-4c8e-8ebe-b9a845a329d8.png)](https://videos.scanlines.xyz/w/534XkPbbdpDNjTziM6pPNG)
 
 [![image](https://user-images.githubusercontent.com/12017938/151878669-bfd9f65a-8660-4917-8029-e255410f0958.png)](https://youtu.be/ah2HY1fuv8w?t=638)
 
