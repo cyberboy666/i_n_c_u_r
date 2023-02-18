@@ -2755,7 +2755,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c52f362)
     (property "Reference" "J8" (id 0) (at 264.16 140.335 0))
-    (property "Value" "2x20_Extra_Tall_Header" (id 1) (at 238.125 85.725 0))
+    (property "Value" "2x20_Extra_Tall_Socket_Header" (id 1) (at 238.125 85.725 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical" (id 2) (at 271.78 76.835 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3055,7 +3055,7 @@
       (reference "J7") (unit 1) (value "rca") (footprint "lib_fp:tht_rca_vertical")
     )
     (path "/00000000-0000-0000-0000-00005c52f362"
-      (reference "J8") (unit 1) (value "2x20_Extra_Tall_Header") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
+      (reference "J8") (unit 1) (value "2x20_Extra_Tall_Socket_Header") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005bc59626"
       (reference "R1") (unit 1) (value "1K") (footprint "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
